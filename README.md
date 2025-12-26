@@ -1,6 +1,6 @@
 # Student Score Analysis
 
-> A comprehensive data analysis project examining the relationships between student demographics, family background, study habits, and academic performance across 30,000+ student records.
+> A  data analysis project examining the relationships between student demographics, family background, study habits, and academic performance across 30,000+ student records.
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
